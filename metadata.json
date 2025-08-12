@@ -1,0 +1,25 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Plugin Kicad Demo",
+    "description": "Demo Basico para KiCad",
+    "description_full": "Prepara automáticamente los archivos necesarios (Gerbers, BOM y XY)",
+    "identifier": "com.ctayupanta.plugindemo",
+    "type": "plugin",
+    "author": {
+        "name": "Christian Tayupanta",
+        "contact": {
+            "email": ""
+        }
+    },
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": ""
+    },
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "9.0"
+        }
+    ]
+}
